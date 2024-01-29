@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamipheco alias Ipheco Chris 
-- 👀 I’m interested in Web Development and Solidity
-- 🌱 I’m currently learning Web Development 
-- 💞️ I’m looking to collaborate on Solidity
+- 👀 I’m a Certified Frontend Engineer 
+- 🌱 I’m currently perfecting my skills on Frontend Projects
+- 💞️ I’m looking to collaborate on any Frontend Projects 
 - 📫 Reach me on my Social Media links on my Bio
 
 <!---
