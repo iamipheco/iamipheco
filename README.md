@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iamipheco alias Ipheco Chris 
 - 👀 I’m a Certified Software Engineer 
-- 💞️ I’m looking to collaborate on any Frontend Projects 
+- 💞️ I’m looking to collaborate on any Fullstack Projects 
 - 📫 Reach me on my Social Media links on my Bio
 
 <!---
