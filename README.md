@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @iamipheco alias Ipheco Chris 
-- 👀 I’m a Certified Frontend Engineer 
-- 🌱 I’m currently learning typescript and building Projects on React 
+- 👀 I’m a Certified Software Engineer 
 - 💞️ I’m looking to collaborate on any Frontend Projects 
 - 📫 Reach me on my Social Media links on my Bio
 
